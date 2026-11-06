@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root { --ink: 23 32 51; --paper: 244 247 248; --surface: 255 255 255; --brand: 14 90 90; }
+  .dark { --ink: 230 236 240; --paper: 15 20 30; --surface: 24 31 45; --brand: 31 130 130; }
+}
+body { @apply bg-paper text-ink font-body; }
+h1, h2, h3 { @apply font-display; }
+:focus-visible { outline: 3px solid #F2C14E; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
