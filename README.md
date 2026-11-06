@@ -1,3 +1,8 @@
+# ShopSphere – Modern E-Commerce Platform
+
+ShopSphere is a responsive e-commerce web application built with React, Vite, and Tailwind CSS. It is designed to provide a smooth online shopping experience with product discovery, shopping cart management, wishlist functionality, and a simulated checkout process.
+
+
 # ShopSphere
 
 A demo e-commerce storefront built with React, Vite, Tailwind CSS and React Router. Product data comes from the public [DummyJSON](https://dummyjson.com) API. No real payments are made.
