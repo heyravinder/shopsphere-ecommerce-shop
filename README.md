@@ -29,6 +29,21 @@ npm run dev
 ### Shopping Cart
 ![Shopping Cart](screenshots/cart.png)
 
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React | Building interactive UI components |
+| Vite | Fast development and production builds |
+| JavaScript | Application functionality |
+| Tailwind CSS | Responsive styling |
+| React Router | Page navigation |
+| Context API | Application state management |
+| DummyJSON API | Product data integration |
+| Recharts | Data visualization |
+| Lucide React | Icons |
+| Netlify | Website hosting and deployment |
+
 
 ## Phase 1
 Home, product list with search, category filter and sorting, product detail with image gallery, cart with free-shipping progress, wishlist, 404 page. Cart and wishlist persist in localStorage.
