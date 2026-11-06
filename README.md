@@ -13,6 +13,9 @@ A demo e-commerce storefront built with React, Vite, Tailwind CSS and React Rout
 npm install
 npm run dev
 ```
+## Live Demo
+
+🌐 [View ShopSphere Live](https://playful-malabi-25c180.netlify.app/)
 
 ## Phase 1
 Home, product list with search, category filter and sorting, product detail with image gallery, cart with free-shipping progress, wishlist, 404 page. Cart and wishlist persist in localStorage.
