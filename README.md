@@ -17,6 +17,19 @@ npm run dev
 
 🌐 [View ShopSphere Live](https://playful-malabi-25c180.netlify.app/)
 
+
+## Screenshots
+
+### Homepage
+![ShopSphere Homepage](screenshots/homepage.png)
+
+### Product Listing
+![Product Listing](screenshots/products.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+
 ## Phase 1
 Home, product list with search, category filter and sorting, product detail with image gallery, cart with free-shipping progress, wishlist, 404 page. Cart and wishlist persist in localStorage.
 
